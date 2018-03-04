@@ -2,548 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e4b28be-acf4-4a27-b131-ac050c9c6e6d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/MenusRepository.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Repositories/Repository.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/apple-touch-icon-114x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/apple-touch-icon-144x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/apple-touch-icon-57x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/apple-touch-icon-72x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/beetle-bus-goes-jamba-juice-4 (1).css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/beetle-bus-goes-jamba-juice-4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/friends-and-foes-2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/hem-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/identification-4.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/indian-night-3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/indian-night-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/mfast-3.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/saffron-umbrella-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/ultraviolet-rays-1.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/buttons/view-over-the-town-5.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/cache-custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/max-width-1024.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/max-width-320.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/max-width-480.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/max-width-768.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/darkskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/darkskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/defaultskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/defaultskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/glass/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/glass/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/lightskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/lightskin/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/minimal/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/minimal/skin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/skins/noskin/skin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/style-minifield.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/css/thickbox.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/fonts/fontawesome/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/fonts/fontawesome/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/fonts/fontawesome/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/fonts/fontawesome/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/001-205x185.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/001-386x155.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/001-55x55.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/001-816x282.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/00212-816x282.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/003-205x185.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/003-55x55.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/003-816x282.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/articles/0037-55x55.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/11bfde47f09026a6cfcf8c741b7a28c3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/Fotolia_20568380_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/Fotolia_24730952_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/Fotolia_7454857_Subscription_XXL-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/jasmine1-129x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/nicola.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/nicola55.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/ricardo-94x94.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/samuel1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/susanna1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/thomas1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/unknow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/unknow55.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/avatar/victor1-130x176.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg-pagination.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg-tabs.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg/0023.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg/019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg/032.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg/bgblu.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bg/tab-price-gradient.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/bird-twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/button-more-rtl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/button-more.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/buttons.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/callus.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/categories.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/cite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/clock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/border.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/controls.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderBottomCenter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderBottomLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderBottomRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderMiddleLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderMiddleRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderTopCenter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderTopLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/ie6/borderTopRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/loading_background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/colorbox/overlay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/comments-small.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/customposttypewordpress.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/date-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/features/404.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/features/download.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/gradient-call-to-action.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/00111-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/00111.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0022-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0022.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/00313-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/00313.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0058-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0058.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0076-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0076.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0094-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-ix/0094.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-vi/00213.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-vi/00315.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-vi/0048.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/home-vi/dd2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/article.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/author.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/blog1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bullet/add.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bullet/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bullet/check.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bullet/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/bullet/star.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/calc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/chat.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/cloud.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/comment.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/arrow-left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/calc.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/cart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/download.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/gift.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/offer.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/remove.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/for_button/tick.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/home-85.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/leave-comment.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/alert.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/check.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/error.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/info.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/message/note.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/next_button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/prev_button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/project.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/bag32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/box-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/box32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/brush-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/bubble32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/bulb32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/calendar32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/card-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/cart32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/cart48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/case.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/chart-bar (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/chart-bar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/chart-line.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/chart32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/checkbox-checked (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/checkbox-checked.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/clipboard32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/coffee32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/contact.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/diagram32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/doodles32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/gear32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/gift32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/gift48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/globe32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/info-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/info32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/label32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/letter32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/moleskine32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/monitor-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/monitor32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/mphone32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/mphone48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/new32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/open32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/open48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/pc32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/pencil32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/phone-black (1).png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/phone-black.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/phone32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/pictures32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/refresh32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/shopbag32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/statistics32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/testimonial32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/set_icons/tick32.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/bookmark.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/delicious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/digg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/dribble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/ember.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/facebook.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/flickr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/forrst.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/google.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/lastfm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/linkedin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/myspace.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/pinterest.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/quora.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/rss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/skype.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/stumble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/tumblr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/vimeo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/small-socials/youtube.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/delicious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/digg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/dribble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/ember.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/facebook.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/flickr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/forrst.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/google.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/lastfm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/linkedin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/myspace.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/pinterest.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/quora.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/rss.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/skype.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/stumble.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/tumblr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/twitter.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/vimeo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/socials/youtube.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/tick20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/icons/zoom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/ie_overlay_82.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/illustrator.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/input_pattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/input_pattern_hover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/landing-header1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/menu-select-arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/phone-call-to-action.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/dark_square/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/default_thumb.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/sprite_next.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/sprite_prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/sprite_x.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/default/sprite_y.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/facebook/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_rounded/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_rounded/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_square/btnNext.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_square/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/prettyPhoto/light_square/sprite.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.bg.signup.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.no.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.readmore.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.single.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.unlim.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/price.yes.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0011-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0011-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0011.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0012-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0012.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0013-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0013.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0027-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0027-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0027.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0028-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0028.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0029-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0029.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/00311-150x150.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/00311-300x111.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/00311.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0034-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0034-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0034.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0035-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0035.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0038-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0038.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0043-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0043-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0043.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0045-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0045.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0052-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0052-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0052.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0054-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0054.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0061-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0061-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0061-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0061.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0063-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0063.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0071-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0071-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0071-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0071.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0072-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0072.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0073-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0073.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081-385x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081-700x345.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0081.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0082-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0082.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0083-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0083.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/009-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/009-320x154.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/009-770x368.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/009.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0091-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0091.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0092-260x168.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/projects/0092.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/resp1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/WEB1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/adv1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/deisgn-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/editing1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/foto-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/services/print-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/sezioneaurea.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/shadows/bg-shadow-boxed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/shadows/shadow-938.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/shadows/thumb-testimonial.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/00314.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/cycle-fixed.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/cycle1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/cycle2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/cycle3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/dd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/widget-area.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-cycle/xx.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/dolce11-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/dolce11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/elastic-slider-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/love1-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/love1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/red-passion1-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/red-passion1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/sci11-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/sci11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/xx21-150x59.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-elastic/xx21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-flex/0018.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-flex/0031.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-flex/0033.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-flex/bg_direction_nav.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/011.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/021.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/031.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/033.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/041.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/043.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/051.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/052.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/053.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/055.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/062.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/064.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/071.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/072.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/074.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/081.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/091.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/101.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/bg1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/bg2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-layer/layer-fixed.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/001-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0019-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0019.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0024-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0024.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0026-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0026.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/002b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/00310-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/00310.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0032-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0032.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0042-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0042.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0047-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0047.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/005-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/005.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0057-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0057.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/006-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/006.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0065-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0065.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/007-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/007.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0075-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0075.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/008-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/008.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0085-60x60.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/0085.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/008b.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/slider-thumbnails-arrows.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/slider-thumbnails/white-opacity-80.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/tipsy.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/twitter-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/1-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/1-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/2-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/2-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/3-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/3-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/42-175x175.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/42-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/53-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/videos/6-365x192.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/images/woman.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/comment-reply.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/contact.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.anythingslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.aw-showcase.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.colorbox-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.custom.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.cycle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.easing.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.eislideshow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.flexslider-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.mobilemenu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.prettyPhoto.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.quicksand.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.tipsy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/jquery.tweetable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/layerslider.kreaturamedia.jquery-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/projects.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/shortcodes.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/slider-layer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/js/testimonials.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/pink/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/emails/password.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/pink/index.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/pink/navigation.blade.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/pink/customMenuItems.blade.php" />
       <change beforePath="$PROJECT_DIR$/.idea/laravel-corp.iml" afterPath="$PROJECT_DIR$/.idea/laravel-corp.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" afterPath="$PROJECT_DIR$/app/Console/Commands/Inspire.php" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" />
-      <change beforePath="$PROJECT_DIR$/app/Events/Event.php" afterPath="$PROJECT_DIR$/app/Events/Event.php" />
-      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Requests/Request.php" afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" />
-      <change beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change beforePath="$PROJECT_DIR$/app/Jobs/Job.php" afterPath="$PROJECT_DIR$/app/Jobs/Job.php" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
       <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" afterPath="$PROJECT_DIR$/config/auth.php" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
-      <change beforePath="$PROJECT_DIR$/config/services.php" afterPath="$PROJECT_DIR$/config/services.php" />
-      <change beforePath="$PROJECT_DIR$/database/factories/ModelFactory.php" afterPath="$PROJECT_DIR$/database/factories/ModelFactory.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pink/navigation.blade.php" afterPath="$PROJECT_DIR$/resources/views/pink/navigation.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -556,7 +23,7 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -571,17 +38,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -590,18 +47,20 @@
       <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="250">
+              <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+              <folding>
+                <element signature="e#41#79#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenusRepository.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MenusRepository.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Repositories/MenusRepository.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -611,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/app/Repositories/Repository.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -620,8 +79,8 @@
       <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pink/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="12" />
               <folding>
                 <marker date="1519240805381" expanded="true" signature="9:37" ph="..." />
                 <marker date="1519240805381" expanded="true" signature="49:61" ph="..." />
@@ -634,29 +93,9 @@
       <file leaf-file-name="site.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="113" column="34" lean-forward="false" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+            <state relative-caret-position="2950">
+              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#1;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="e#10147#10152#0#HTML" expanded="true" />
-                <element signature="e#21315#21320#0#HTML" expanded="true" />
-                <element signature="e#21883#21888#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <marker date="1519240726495" expanded="true" signature="880:899" ph="..." />
                 <marker date="1519240726495" expanded="true" signature="974:993" ph="..." />
                 <marker date="1519240726495" expanded="true" signature="1210:1229" ph="..." />
@@ -716,12 +155,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navigation.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/pink/navigation.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="75">
+              <caret line="3" column="80" lean-forward="true" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
+              <folding>
+                <marker date="1520158150247" expanded="true" signature="4:9" ph="..." />
+                <marker date="1520158150247" expanded="true" signature="98:129" ph="..." />
+                <marker date="1520158150247" expanded="true" signature="98:156" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customMenuItems.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/pink/customMenuItems.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <marker date="1520158150466" expanded="true" signature="9:24" ph="..." />
+                <marker date="1520158150466" expanded="true" signature="62:76" ph="..." />
+                <marker date="1520158150466" expanded="true" signature="82:96" ph="..." />
+                <marker date="1520158150466" expanded="true" signature="119:139" ph="..." />
+                <marker date="1520158150466" expanded="true" signature="208:269" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -737,13 +196,16 @@
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/config/database.php" />
-        <option value="$PROJECT_DIR$/resources/views/pink/navigation.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/pink/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/app/Repositories/Repository.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/app/Repositories/MenusRepository.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/resources/views/pink/itemMenuItems.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pink/customMenuItems.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/pink/navigation.blade.php" />
       </list>
     </option>
   </component>
@@ -817,6 +279,7 @@
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/lavary/laravel-menu" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
@@ -840,7 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -853,19 +315,6 @@
               <item name="laravel-corp" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-corp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="laravel-corp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-corp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="laravel-corp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-corp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="laravel-corp" type="b2602c69:ProjectViewProjectNode" />
@@ -905,6 +354,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -949,18 +399,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -970,30 +420,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="52" />
+        <state relative-caret-position="225">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1006,6 +450,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#79#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/Repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <marker date="1519240805381" expanded="true" signature="9:37" ph="..." />
+            <marker date="1519240805381" expanded="true" signature="49:61" ph="..." />
+            <marker date="1519240805381" expanded="true" signature="70:83" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2825">
+          <caret line="113" column="34" lean-forward="false" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+          <folding>
+            <marker date="1519240726495" expanded="true" signature="880:899" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="974:993" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1210:1229" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1383:1402" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1554:1573" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1732:1751" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1892:1911" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2021:2040" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2147:2166" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2309:2328" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2469:2488" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2629:2648" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2810:2829" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2941:2960" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3067:3086" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3194:3213" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3320:3339" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3707:3726" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3850:3869" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3938:3957" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4033:4052" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4131:4150" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4225:4244" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4325:4344" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4423:4442" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4526:4545" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4626:4645" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4721:4740" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4824:4843" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4924:4943" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5042:5061" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5134:5153" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5248:5267" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5795:5814" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="6486:6498" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="9554:9573" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="9920:9939" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="13544:13563" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="14256:14275" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="14581:14600" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="15995:16014" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="16223:16242" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="17127:17146" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="17355:17374" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="18263:18282" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="18488:18507" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="19420:19439" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="19648:19667" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="21041:21060" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="21620:21639" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="22205:22224" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24508:24527" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24599:24618" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24684:24703" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <marker date="1520158150247" expanded="true" signature="4:9" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:129" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:156" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/MenusRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1014,31 +571,186 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#41#79#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/Repository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <marker date="1519240805381" expanded="true" signature="9:37" ph="..." />
+            <marker date="1519240805381" expanded="true" signature="49:61" ph="..." />
+            <marker date="1519240805381" expanded="true" signature="70:83" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="2825">
           <caret line="113" column="34" lean-forward="false" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#1;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="e#10147#10152#0#HTML" expanded="true" />
-            <element signature="e#21315#21320#0#HTML" expanded="true" />
-            <element signature="e#21883#21888#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <marker date="1519240726495" expanded="true" signature="880:899" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="974:993" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1210:1229" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1383:1402" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1554:1573" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1732:1751" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="1892:1911" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2021:2040" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2147:2166" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2309:2328" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2469:2488" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2629:2648" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2810:2829" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="2941:2960" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3067:3086" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3194:3213" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3320:3339" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3707:3726" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3850:3869" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="3938:3957" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4033:4052" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4131:4150" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4225:4244" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4325:4344" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4423:4442" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4526:4545" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4626:4645" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4721:4740" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4824:4843" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="4924:4943" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5042:5061" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5134:5153" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5248:5267" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="5795:5814" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="6486:6498" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="9554:9573" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="9920:9939" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="13544:13563" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="14256:14275" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="14581:14600" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="15995:16014" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="16223:16242" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="17127:17146" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="17355:17374" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="18263:18282" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="18488:18507" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="19420:19439" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="19648:19667" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="21041:21060" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="21620:21639" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="22205:22224" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24508:24527" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24599:24618" ph="..." />
+            <marker date="1519240726495" expanded="true" signature="24684:24703" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <folding>
+            <marker date="1520158150247" expanded="true" signature="4:9" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:129" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:156" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Repositories/MenusRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="57" column="52" lean-forward="false" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="174" column="18" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/layouts/site.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
             <marker date="1519240726495" expanded="true" signature="880:899" ph="..." />
             <marker date="1519240726495" expanded="true" signature="974:993" ph="..." />
             <marker date="1519240726495" expanded="true" signature="1210:1229" ph="..." />
@@ -1099,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pink/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="12" />
           <folding>
             <marker date="1519240805381" expanded="true" signature="9:37" ph="..." />
             <marker date="1519240805381" expanded="true" signature="49:61" ph="..." />
@@ -1109,51 +821,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/pink/navigation.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Repositories/Repository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Repositories/MenusRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
+          <folding>
+            <element signature="e#41#79#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/customMenuItems.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <marker date="1520158150466" expanded="true" signature="9:24" ph="..." />
+            <marker date="1520158150466" expanded="true" signature="62:76" ph="..." />
+            <marker date="1520158150466" expanded="true" signature="82:96" ph="..." />
+            <marker date="1520158150466" expanded="true" signature="119:139" ph="..." />
+            <marker date="1520158150466" expanded="true" signature="208:269" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pink/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="80" lean-forward="true" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
+          <folding>
+            <marker date="1520158150247" expanded="true" signature="4:9" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:129" ph="..." />
+            <marker date="1520158150247" expanded="true" signature="98:156" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
