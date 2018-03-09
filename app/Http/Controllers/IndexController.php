@@ -20,8 +20,12 @@ class IndexController extends SiteController
         $this->p_rep = $p_rep;
         $this->a_rep = $a_rep;
 
+        $this->keywords = 'Home page';
+        $this->meta_desc = 'Home page';
+        $this->title = 'Home page';
+
         $this->template = env('THEME') . '.index';
-        $this->bar = 'right';
+        //$this->bar = 'right';
 
     }
 
