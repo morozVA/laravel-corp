@@ -5,7 +5,7 @@ Route::resource('/', 'IndexController', [
     'names' => [
         'index' => 'home'
     ]
-    ]);
+]);
 
 Route::resource('portfolios', 'PortfolioController', [
     'parameters' => [
@@ -18,3 +18,6 @@ Route::resource('articles', 'ArticlesController', [
         'articles' => 'alias'
     ],
 ]);
+
+Route::get('articles/cat/{cat_alias?}', ['uses' => 'ArticleController@index', 'as' => 'articlesCat']
+);
