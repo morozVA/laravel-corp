@@ -6,15 +6,18 @@
 				    <ul class="slider">
 				    
 				    
-
+				    @set($i,1)
 				    @foreach($sliders as $slider)
 				    
 				    <li>
 					   <div class="slide-holder" style="background:  url('{{ asset(env('THEME')) }}/images/{{ $slider->img }}') no-repeat center center" style="height:483px;">
 					    	<div class="slide-content-holder inner" style="height:483px;">
-
+					    		@if($i%2 !== 0)
 					    			<div class="slide-content-holder-content" style="position: absolute; top:30px;right:650px;">
-
+					    		@else
+					    			<div class="slide-content-holder-content" style="position: absolute; top:80px;left:500px;">
+					    		@endif
+					    			
 					    				<div class="slide-title">
 				                            {!! $slider->title !!}
 				                        </div>
@@ -27,7 +30,7 @@
 					    </div>
 				    </li>
 				    
-
+				    @set($i, $i+1)
 				    @endforeach
 				    </ul>
 				    
@@ -46,7 +49,7 @@
 				                </div>
 				            </div>
 				            <div class="widget-last yit-widget widget col1_4 one-fourth col yit_text_quote">
-				                <blockquote class="text-quote-quote">ï¿½Anyone who has never made a mistake has never tried anything new.ï¿½</blockquote>
+				                <blockquote class="text-quote-quote">“Anyone who has never made a mistake has never tried anything new.”</blockquote>
 				                <cite class="text-quote-author">Albert Einstein</cite>
 				            </div>
 				        </div>
