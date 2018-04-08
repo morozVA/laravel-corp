@@ -23,13 +23,17 @@ class AuthController extends Controller
 
     use AuthenticatesAndRegistersUsers, ThrottlesLogins;
 
-    protected $loginView;
-    protected $username = 'login';
     /**
      * Where to redirect users after login / registration.
      *
      * @var string
      */
+     
+     protected $loginView;
+     
+     protected $username = 'login';
+     
+     
     protected $redirectTo = '/admin';
 
     /**
@@ -40,7 +44,21 @@ class AuthController extends Controller
     public function __construct()
     {
         $this->middleware($this->guestMiddleware(), ['except' => 'logout']);
+        
         $this->loginView = env('THEME').'.login';
+    }
+    
+    
+    public function showLoginForm()
+    {
+        $view = property_exists($this, 'loginView')
+                    ? $this->loginView : '';
+
+        if (view()->exists($view)) {
+            return view($view)->with('title', 'Вход на сайт');
+        }
+
+        abort(404);
     }
 
     /**
@@ -56,17 +74,6 @@ class AuthController extends Controller
             'email' => 'required|email|max:255|unique:users',
             'password' => 'required|min:6|confirmed',
         ]);
-    }
-
-    public function showLoginForm()
-    {
-        $view = property_exists($this, 'loginView')
-            ? $this->loginView : '';
-
-        if (view()->exists($view)) {
-            return view($view)->with('title', 'Вход на сайт');
-        }
-        abort(404);
     }
 
     /**
